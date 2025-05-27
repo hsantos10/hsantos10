@@ -53,7 +53,7 @@ Researched and designed machine learning and compression algorithms for n-dimens
 ## 📫 How to Reach Me
 
 - Email: hsantos@tamu.edu
-- LinkedIn: [davidsantosb](https://www.linkedin.com/davidsantosb)
+- LinkedIn: [davidsantosb](https://www.linkedin.com/in/davidsantosb)
 
 ---
 
