@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on projects involving embedded systems, machine learning applications, and innovative IoT solutions for real-world challenges.
 - 🤔 I’m looking for help with expanding my network in AI research and exploring interdisciplinary applications of machine learning in engineering.
 - 💬 Ask me about machine learning, scientific machine learning, embedded systems, IoT architectures, and data analysis with Python, MATLAB, and C/C++.
-- 📫 How to reach me: hsantos@tamu.edu or connect with me on [LinkedIn](https://www.linkedin.com/davidsantosb)
+- 📫 How to reach me: hsantos@tamu.edu or connect with me on [LinkedIn](https://www.linkedin.com/in/davidsantosb)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have professional experience across Colombia, Germany, and the US, and I speak Spanish, English, Portuguese, and some German!
 
