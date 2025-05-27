@@ -1,6 +1,6 @@
 # Hi, I'm Hernan David Santos Barrera 👋
 
-Welcome to my GitHub profile! I am a Ph.D. candidate in Electrical Engineering at Texas A&M University, passionate about machine learning, scientific machine learning, embedded systems, and their real-world applications. I am a member of the [TAU Group](https://taugroup.github.io/), an interdisciplinary research group in the Visual Computing and Computational Media Section at Texas A&M, where we develop numerical and machine learning algorithms to accelerate digital transformation for a sustainable society[1].
+Welcome to my GitHub profile! I am a Ph.D. candidate in Electrical Engineering at Texas A&M University, passionate about machine learning, scientific machine learning, embedded systems, and their real-world applications. I am a member of the [TAU Group](https://taugroup.github.io/), an interdisciplinary research group in the Visual Computing and Computational Media Section at Texas A&M, where we develop numerical and machine learning algorithms to accelerate digital transformation for a sustainable society.
 
 ---
 
@@ -19,23 +19,23 @@ A project focused on analyzing human motion data using deep learning. It process
 
 ### 3D Indoor Mapping with Autonomous Drones
 
-Co-designed a system for 3D indoor mapping in GPS-denied environments using multiple unmanned aircraft systems, contributing to the NIST 5.0 UAS drone challenge to aid first responders[2].
+Co-designed a system for 3D indoor mapping in GPS-denied environments using multiple unmanned aircraft systems, contributing to the NIST 5.0 UAS drone challenge to aid first responders.
 
 ### N-Dimensional Tensor Compression
 
-Researched and designed machine learning and compression algorithms for n-dimensional tensors, focusing on efficient data representation and analysis[2].
+Researched and designed machine learning and compression algorithms for n-dimensional tensors, focusing on efficient data representation and analysis.
 
 ### IoT and Embedded Systems
 
 - Developed IoT solutions for real-time monitoring and control in transportation and smart environments.
-- Led teams to design and launch cost-effective IoT devices for automation and data collection in both industry and academia[2].
+- Led teams to design and launch cost-effective IoT devices for automation and data collection in both industry and academia.
 
 ---
 
 ## 🏛️ Lab & Community Involvement
 
-- **TAU Group**: Member of a diverse team advancing visual computing, machine learning, and digital transformation at Texas A&M[1].
-- **TAMIDS Data Science Ambassador**: Promoting data science and AI literacy as a TAMIDS Ambassador, engaging the Texas A&M community through workshops and outreach[3].
+- **TAU Group**: Member of a diverse team advancing visual computing, machine learning, and digital transformation at Texas A&M.
+- **TAMIDS Data Science Ambassador**: Promoting data science and AI literacy as a TAMIDS Ambassador, engaging the Texas A&M community through workshops and outreach.
 
 ---
 
