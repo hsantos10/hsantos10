@@ -35,7 +35,7 @@ Researched and designed machine learning and compression algorithms for n-dimens
 ## 🏛️ Lab & Community Involvement
 
 - **TAU Group**: Member of a diverse team advancing visual computing, machine learning, and digital transformation at Texas A&M.
-- **TAMIDS Data Science Ambassador**: Promoting data science and AI literacy as a TAMIDS Ambassador, engaging the Texas A&M community through workshops and outreach.``
+[comment]: <> (- **TAMIDS Data Science Ambassador**: Promoting data science and AI literacy as a TAMIDS Ambassador, engaging the Texas A&M community through workshops and outreach.)
 
 ---
 
